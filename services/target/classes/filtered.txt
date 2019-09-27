@@ -1,0 +1,4 @@
+This module is named: services
+The groupId of this module is: com.ecc.app
+The artifactId of this module is called: services
+The groupId based on the default.properties file: com.ecc.app

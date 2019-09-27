@@ -1,0 +1,4 @@
+This module is named: ${project.name}
+The groupId of this module is: ${project.groupId}
+The artifactId of this module is called: ${project.artifactId}
+The groupId based on the default.properties file: ${sampleId}
